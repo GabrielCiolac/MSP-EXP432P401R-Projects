@@ -9,3 +9,6 @@ Configure input as internal pull-down resistor on pins 1.1, and 1.4. Initial sta
 
 ## Lab 3
 Same as Lab 2, except the switch's are set up as internal pull-up resistors, also the switches control LED states via interrupts instead of via polling
+
+## Lab 4
+Same as Lab 3, except LEDs iterate through states via timer (once a second), switch 1 changes between LEDs, while switch 2 stops the timer
