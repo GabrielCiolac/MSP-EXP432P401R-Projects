@@ -12,3 +12,13 @@ Same as Lab 2, except the switch's are set up as internal pull-up resistors, als
 
 ## Lab 4
 Same as Lab 3, except LEDs iterate through states via timer (once a second), switch 1 changes between LEDs, while switch 2 stops the timer
+
+## Lab 5
+Utilizes Texas Instruments Education booster pack 2, through the BSP library. Project aims to map the different quadrents of the joystick to different frequencies to be played by
+the buzzer. Dead centre on the joystick corrisponds to 800Mhz at a duty cycle of 0% (off).
+
+## Lab 6
+Similar to lab 2->4 however, both LEDs are being used at the same time. Right after system configuration the Red LED is on 0.1s later, the RGB LED is turned on, every 1s the Red LED changes states, every 1s the RGB LED changes states. I use two different timers (A0, and A1) to achieve this due to 0.1s offset
+
+## Lab 7
+This lab utilizes the Texas Instruments Education Booster Pack 2, through the BSP library. Project aims to time a process execution on the devices opperating system, and then display that time to the display on the booster pack.
