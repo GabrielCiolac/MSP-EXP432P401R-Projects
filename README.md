@@ -1,4 +1,8 @@
-# SYSC-3310
+# SYSC 3310
+
+## Notice to future students:
+While I understand the temptation to look for already made solutions to your labs, you're doing youself and your fellow students a diservice if you chose to blatantly copy. The content of this course is foundational, and you'll find that it's later built on in future courses, by not understanding this content now you effectively shoot yourself in the foot later. You may say "It's on GitHub so it's free to use by everyone". While yes, GitHub faciliates the opensource community, and I encourage anyone to use any software accross all my repos for non-accademically dishonest purposes,however, GitHub is also increasingly the programmers portfolio. I put this here because I'm proud of my work and I want potential employeers to see it. By copying this material you open the future possibility of professors banning GitHub submissions, and robbing your collegues of the oppertunity to also contribute to their portfolios. I know this message may come off as nose held high, but please reconsider copying code from this repo to be accademically dishonest. If I've failed to deter you, I'll point you to my copyright (see MIT License), where this software cannot be reused without the explicit inclusion of that copyright(and therefore my name).Thank you for your time, and understanding.
+
 MSP-EXP432P401R projects for SYSC 3310, all written in C
 
 ## Lab 1
